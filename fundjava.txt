@@ -12,7 +12,7 @@ The programing language enables us to write efficient programs and develop onlin
   -->platform independent
 
 4) what is an object?
-A Java object is a member (also called an instance) of a Java class.
+The object is a member (also called an instance) of a Java class.
 
 5) what is a class?
 A class is a user-defined blueprint or prototype from which objects are created. 
